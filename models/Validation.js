@@ -44,4 +44,7 @@ var Validation = function () {
         document.querySelector(error_selector).innerHTML = '';
         return true;
     }
+    this.kiemTraQRCode = function(){
+        console.log('check QR Code');
+    }
 }
