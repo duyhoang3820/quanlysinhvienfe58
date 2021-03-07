@@ -47,4 +47,7 @@ var Validation = function () {
     this.kiemTraQRCode = function(){
         console.log('check QR Code');
     }
+    this.chucNangUserA = function(){
+        console.log('userA');
+    }
 }
