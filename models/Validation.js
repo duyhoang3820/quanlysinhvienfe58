@@ -50,4 +50,7 @@ var Validation = function () {
     this.chucNangUserA = function(){
         console.log('userA');
     }
+    this.testB = function(){
+        console.log('userB');
+    }
 }
